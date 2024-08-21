@@ -1,2 +1,2 @@
 # Allora-node
-Script to install allora node. 
+Installation script of allora node. 
